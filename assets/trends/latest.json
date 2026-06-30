@@ -1,0 +1,75 @@
+{
+  "generated_at": "2026-06-30T10:00:00",
+  "date_label": "2026년 06월 30일",
+  "trending": [
+    "BTS 컴백",
+    "KOSPI 8800",
+    "2026 월드컵",
+    "북한 헌법 개정",
+    "LG이노텍 반도체",
+    "김호중 복귀",
+    "중위소득 기준",
+    "한성숙 후보자",
+    "K-POP 신보",
+    "AI 반도체",
+    "BLACKPINK",
+    "부동산 규제",
+    "네덜란드 경기",
+    "국립중앙박물관",
+    "JTBC 뉴스"
+  ],
+  "candidates": [
+    {
+      "rank": 1,
+      "category": "Entertainment",
+      "keyword": "BTS 컴백",
+      "score": 10,
+      "titles": [
+        "2026 BTS 컴백 총정리 — 새 앨범 ARIRANG 완벽 분석",
+        "\"BTS 컴백\" 지금 왜 이슈인가? 핵심 포인트 3가지",
+        "BTS ARIRANG 앨범 전망 — 빌보드 성적은?"
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "Economy",
+      "keyword": "KOSPI 8800",
+      "score": 10,
+      "titles": [
+        "2026 KOSPI 8800 돌파 총정리 — 지금 사야 할까?",
+        "\"코스피 8800\" 왜 올랐나? 원인 3가지 분석",
+        "하반기 주식 시장 전망 — 어디까지 오를까?"
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "AI·Tech",
+      "keyword": "AI 반도체",
+      "score": 10,
+      "titles": [
+        "2026 AI 반도체 총정리 — 삼성 vs SK하이닉스 누가 앞서나",
+        "\"AI 반도체\" 지금 왜 핫한가? 핵심 이유 3가지",
+        "LG이노텍·삼성전자 AI 반도체 전망 분석"
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "Lifestyle",
+      "keyword": "중위소득 기준",
+      "score": 10,
+      "titles": [
+        "2026 중위소득 기준 총정리 — 내가 해당되나?",
+        "\"중위소득\" 뭐가 달라졌나? 변경 내용 3가지",
+        "2026 복지 혜택 기준 총망라 — 신청 가능한 것들"
+      ]
+    }
+  ],
+  "checklist": [
+    "주제 1개 선정",
+    "kiik_card_template.py CONTENT 수정",
+    "python3 kiik_card_template.py 실행 (카드 7장)",
+    "본문 초안 작성 (Claude 활용)",
+    "네이버 블로그 + 티스토리 발행",
+    "해시태그 10개 추가"
+  ]
+}

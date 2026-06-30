@@ -19,6 +19,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </a>
             <nav className="flex items-center gap-6 text-sm" style={{ color: "var(--light)" }}>
               <a href="/docs" className="hover:text-white transition-colors">가이드</a>
+              <a href="/trends" className="hover:text-white transition-colors">트렌드</a>
               <a href="/templates" className="hover:text-white transition-colors">템플릿</a>
               <a href="https://github.com/studioh2su/kiik-blog" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">GitHub</a>
             </nav>
